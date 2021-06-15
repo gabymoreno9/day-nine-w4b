@@ -36,9 +36,20 @@ nav a{
     width: 600px;
     margin-left: auto;
     margin-right: auto;
+    padding: 10px;
+    padding-bottom: 50px;
 
 }
 #logo{
     width: 200px;
     float: right;
+}
+.thumbnail-container img{
+    width: 100%;
+}
+.thumbnail-container p{
+    visibility: hidden;
+}
+.thumbnail-container:hover p{
+    visibility: visible;
 }
