@@ -53,3 +53,11 @@ nav a{
 .thumbnail-container:hover p{
     visibility: visible;
 }
+.thumbnail-container{
+    width: 140px;
+    margin: 5px;
+    background-color: orange;
+    opacity: 0.8;
+    float: left;
+}
+/* Contact-form */
