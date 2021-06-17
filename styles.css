@@ -60,4 +60,31 @@ nav a{
     opacity: 0.8;
     float: left;
 }
-/* Contact-form */
+#confirmation-words{
+    font-size: 40px;
+    color: blue;
+}
+h2{
+    color: green;
+}
+#confirmation-h2{
+    color:tomato;
+}
+#course-section{
+    color: teal;
+}
+
+th{
+    border: 1px solid #000;
+    padding: 10px 0px;
+    width: 150px;
+}
+td{
+    border: 1px solid #000;
+    padding: 10px 0px;
+    width: 150px;
+}
+table{
+    border-collapse: collapse;
+    text-align: center;
+}
